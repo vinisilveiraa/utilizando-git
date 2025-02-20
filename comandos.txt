@@ -11,5 +11,11 @@ git add .
 git commit -m "Porque estou salvando??" 
 (- o incluso na aspas é para deixar uma mensagem do pq esta salvando)
 
-->Armazena a info na nuvem, envia para o GIT
+-> Armazena a info na nuvem, envia para o GIT
+git push
+
+-> Copiar pasta da nuvem (github) para o pc
+git clone link-do-repositorio
+
+-> Baixa a atualização dos arquivos do Github para uma pasta ja existente
 git push
