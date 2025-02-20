@@ -11,5 +11,5 @@ git add .
 git commit -m "Porque estou salvando??" 
 (- o incluso na aspas é para deixar uma mensagem do pq esta salvando)
 
-->Armazena a info na nuvem, envia para o git
+->Armazena a info na nuvem, envia para o GIT
 git push
