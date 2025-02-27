@@ -1,8 +1,23 @@
+-> configurar pc com nome e email
+git config --global user.name "Vinicius Leonardo Silveira"
+git config --global user.email "vinicius.silveira1503@gmail.com" 
+
+  - Usar email fatec nos pcs fatec
+git config --global user.email "vinicius.silveira9@fatec.sp.gov.br" 
+
+-> Navegando no CMD 
+cd nome-da-pasta   // entra em uma pasta
+cd ..   // volta uma pasta
+cd /   // vai para o c:
+
 -> Inicializa um repostorio git (utilizado apenas 1 vez)
 git init
 
 -> Verificar o status do repostorio
 git status
+
+-> Sincroniza sem alteração a pasta local verificando mudanças
+git fetch
 
 -> Adicionar os novos arquivos no Git para versionar
 git add .
